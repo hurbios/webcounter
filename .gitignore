@@ -4,4 +4,4 @@ output.xml
 report.html
 *.log
 .venv
-
+selenium-screenshot*
